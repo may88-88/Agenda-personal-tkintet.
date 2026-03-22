@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f91dd195-7bb5-4782-82c1-65fe9d6dce58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Agenda.py" afterDir="false" />
-    </list>
+    <list default="true" id="f91dd195-7bb5-4782-82c1-65fe9d6dce58" name="Changes" comment="Agenda Personal en Tkinter&#10;&#10;Este proyecto es una aplicación desarrollada en Python usando Tkinter.&#10;&#10;Permite:&#10;- Agregar eventos&#10;- Ver eventos&#10;- Eliminar eventos&#10;&#10;Autor: Marilyn Intriago" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "may88-88"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/may88-88/Agenda-personal-tkintet..git",
+    "accountId": "d3497191-107c-447e-a01e-53b2c55266ca"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -59,7 +64,20 @@
       <option name="presentableId" value="Default" />
       <updated>1774151253153</updated>
     </task>
+    <task id="LOCAL-00001" summary="Agenda Personal en Tkinter&#10;&#10;Este proyecto es una aplicación desarrollada en Python usando Tkinter.&#10;&#10;Permite:&#10;- Agregar eventos&#10;- Ver eventos&#10;- Eliminar eventos&#10;&#10;Autor: Marilyn Intriago">
+      <option name="closed" value="true" />
+      <created>1774152624899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774152624899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agenda Personal en Tkinter&#10;&#10;Este proyecto es una aplicación desarrollada en Python usando Tkinter.&#10;&#10;Permite:&#10;- Agregar eventos&#10;- Ver eventos&#10;- Eliminar eventos&#10;&#10;Autor: Marilyn Intriago" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agenda Personal en Tkinter&#10;&#10;Este proyecto es una aplicación desarrollada en Python usando Tkinter.&#10;&#10;Permite:&#10;- Agregar eventos&#10;- Ver eventos&#10;- Eliminar eventos&#10;&#10;Autor: Marilyn Intriago" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
